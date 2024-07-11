@@ -1,2 +1,1 @@
-# PrerpCurse-henry
-Un repositorio prueba del modulo 2
+Este proyecto es prueba de como crear y clonar un repositorio desde github
