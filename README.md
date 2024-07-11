@@ -1,1 +1,2 @@
-Este proyecto es prueba de como crear y clonar un repositorio desde github
+Este es un archivo prueba para clonar un repositorio 
+Nestor Gonzalez
